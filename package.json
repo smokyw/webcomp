@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/smokyw.cevue-lqnfwgjx",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve xceMy7cjhWMWgeTWuQLC --open"
+  }
+}
